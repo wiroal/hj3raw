@@ -3,7 +3,7 @@
 1. Ir a la página Oficial de de `Quansheng` [Quansheng ](http://en.qsfj.com/) y descargar el sofware oficial de este radio, en el siguiente [link](http://en.qsfj.com/support/downloads/3268) y luego instalarlo.
 2. Descargar el `fireware` [Matoz](https://github.com/spm81/Quansheng_UV-K5/tree/main/Firmware/UNIVERSAL%20FIRMWARE%20(%20All%20Radios%20-%20UV-K5%2C%20UV-K5(8)%2C%20UV-K6%2C%20UV-5R%20Plus%2C%20etc...)/Custom%20Firmware%20by%20Matoz%20(%20spm81%20))
 3. La última versión disponible en *junio 20 de 2024* es *Custom_Firmware_by_Matoz_V0.34.0C.bin*.
-4. Use este video tutorial [El MEJOR FIRMWARE para Quansheng UV5R PLUS / UVK5 / UVK5(8) o K6 FIRMWARE by MATOZ](https://www.youtube.com/watch?v=p2biEejciwo&t=4s)
+4. Use este video tutorial explica el paso a paso de forma muy sencilla: [El MEJOR FIRMWARE para Quansheng UV5R PLUS / UVK5 / UVK5(8) o K6 FIRMWARE by MATOZ](https://www.youtube.com/watch?v=p2biEejciwo&t=4s)
 
   > En este video muestro como instalar el firmware para los modelos  QUANSHENG  UV5R PLUS / UVK5 / UVK5(8) o K6  que a mi criterio es uno de los mejores firmware que hay en la actualidad. En concreto es el desarrollado por MATOZ (Custom_Firmware_by_Matoz_V0.31.3C.bin).  
   > Este firmware a parte de abrir completamente de banda el walky, permite también la transmisión. Eso sí, fuera de las bandas UHF y VHF  la potencia de transmisión es bastante baja. Los enlaces utilizados son los siguientes:
