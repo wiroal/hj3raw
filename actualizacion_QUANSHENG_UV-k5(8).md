@@ -9,7 +9,7 @@
   > Este firmware a parte de abrir completamente de banda el walky, permite también la transmisión. Eso sí, fuera de las bandas UHF y VHF  la potencia de transmisión es bastante baja. Los enlaces utilizados son los siguientes:
 - Página de [QUANSHENG:](http://en.qsfj.com/)
 - Página [FIRMWARE UVMOD:](https://whosmatt.github.io/uvmod/)
-- GITHUB [QUANSHENG:](https://github.com/ludwich66/Quanshen...)
+- GITHUB [QUANSHENG:](https://github.com/spm81/Quansheng_UV-K5)
 
 > Nota Posterior al VIDEO con las caracteristicas de las VERSIONES 31.3C y 31.2C: Esta versión deshabilita la RADIO FM. MCFW V0.31.3C - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Disable FM Radio + Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Secret Menu (Spectrum) + Upconverter shift + ALL TX ) 
 > La versión V0.31.2C Mantiene la RADIO FM MCFW V0.31.2C - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Upconverter shift + ALL TX )
