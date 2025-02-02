@@ -14,4 +14,18 @@
 > Nota Posterior al VIDEO con las caracteristicas de las VERSIONES 31.3C y 31.2C: Esta versión deshabilita la RADIO FM. MCFW V0.31.3C - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Disable FM Radio + Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Secret Menu (Spectrum) + Upconverter shift + ALL TX ) 
 > La versión V0.31.2C Mantiene la RADIO FM MCFW V0.31.2C - Based on Open Spectrum Firmware - Facgi Spectrum OSFW-c8ae8a5 ( Added Roger Beep Motorola on the Menu + Improvement on SQL + Flashlight SOS function + Improvement in SATCOM reception + Upconverter shift + ALL TX )
 
+---
+# Configuración de CHIRP
+
+Para que se pueda editar desde `chirp` se debe hacer los siguientes ajustes
+
+1. En `ayuda` habilitar la opción `Modo desarrollador
+2. Cerrar la apliación y volverla a abrir.
+3. En la `Archivo` ir a la opción `Cargar módulo y cargar el archivo `python` de acuerdo a la versión en que vaya `Matoz`, para la versión *V0.34.0C, se debe instalar `MCFW_V0.34.0.C_CHIRP_DRIVER_ModVer2.py`
+4. Descargar la vesión [MCFW_V0.34.0.C_CHIRP_DRIVER_ModVer2.py](https://github.com/spm81/Quansheng_UV-K5/blob/main/Firmware/UNIVERSAL%20FIRMWARE%20(%20All%20Radios%20-%20UV-K5%2C%20UV-K5(8)%2C%20UV-K6%2C%20UV-5R%20Plus%2C%20etc...)/Custom%20Firmware%20by%20Matoz%20(%20spm81%20)/MCFW_V0.34.0.C_CHIRP_DRIVER_ModVer2.py)
+
+
+
+
+
 > #done
