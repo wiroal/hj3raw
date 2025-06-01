@@ -101,5 +101,5 @@ Este documento resume los pasos que funcionaron para poner en marcha un RTL-SDR 
 
 ## 📄 Autor
 
-**William Rozo**  
+**HJ3RAW**  
 Compilado con base en la experiencia práctica de configuración del RTL-SDR Blog V3 para bandas aeronáuticas, radioaficionados y HF.
