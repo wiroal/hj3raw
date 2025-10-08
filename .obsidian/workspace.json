@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ddf24172cfb07f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed1895600c997eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2342c82d272f8bba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d99111e4e4d3d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "086cb8679ed43d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33632757fd10ac3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a1da4b086edf0d71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d4a3a66f8d779997",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "6a98cfbe0f72d2b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d28e7ef382de6200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2312fe9c9a45a224",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "doc/flujo_grai_tablas/01_inport.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 01_inport"
+            }
+          },
+          {
+            "id": "1f16daafb0bf4bd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "doc/06_indice_docs.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 06_indice_docs"
+            }
+          },
+          {
+            "id": "5585a77c640df7bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5521a1c994910070",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "doc/06_indice_docs.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 06_indice_docs"
+            }
+          },
+          {
+            "id": "5033d6e04f3a6849",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ec1585b099790cb3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "mxmind:Mxmind": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "2342c82d272f8bba",
+  "lastOpenFiles": [
+    "wiroal/AA/31 Foro C3 2025/conceptos_X_XII_obsidian_estilo.md",
+    "wiroal/AA/31 Foro C3 2025/conceptos_X_XII_obsidian_emojis.md",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 643581.crdownload",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 334793.crdownload",
+    "wiroal/AA/31 Foro C3 2025/conceptos_X_XII_obsidian_headings.md",
+    "wiroal/AA/31 Foro C3 2025/conceptos_X_XII_obsidian_desplegable.md",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 529366.crdownload",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 471115.crdownload",
+    "wiroal/AA/31 Foro C3 2025/TEMA CONCEPTOS X XI XII.md",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 397891.crdownload",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 371422.crdownload",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 459617.crdownload",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 465894.crdownload",
+    "wiroal/AA/31 Foro C3 2025/CONCEPTOS X XI XII.md",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 930784.crdownload",
+    "wiroal/AA/31 Foro C3 2025/Tema.md",
+    "wiroal/AA/31 Foro C3 2025/Sin confirmar 819089.crdownload",
+    "wiroal/AA/31 Foro C3 2025/tema_31_FORO_C3.md",
+    "wiroal/AA/aa_buscador_directorio.md",
+    "wiroal/AAMOTEROSCOL/aamoteroscol_clasificacion.md",
+    "wiroal/AA/meditacion_ocupados.md",
+    "soplete_windows.md",
+    "README.md",
+    "pi-star.md",
+    "wiroal/AA/Estudio del Texto Básico/Objetivo del Texto Básico.md",
+    "wiroal/AA/Espiritualidad_AA/Poder Superior.md",
+    "wiroal/AA/Estudio del Texto Básico/Mejorar con el Texto Básico.md",
+    "wiroal/AA/Espiritualidad_AA/Liderazgo, responsabilidad y gratitud.md",
+    "wiroal/AA/Espiritualidad_AA/El ego.md",
+    "wiroal/AA/Espiritualidad_AA/Apadrinaminto en el texto básico.md",
+    "wiroal/AA/Espiritualidad_AA/Apadrinamiento RACSG.md",
+    "wiroal/AA/Espiritualidad_AA/Apadrinamiento Manual de Servicios Generales.md",
+    "wiroal/AA/El apadrinamiento/Apadrinaminto en el texto básico.md",
+    "wiroal/AA/El apadrinamiento/Apadrinamiento RACSG.md",
+    "wiroal/AA/El apadrinamiento/Apadrinamiento Manual de Servicios Generales.md",
+    "wiroal/AA/El apadrinamiento/Apadriamiento.md",
+    "wiroal/AA/Camino-del-amor/Estructura de pensamiento.png"
+  ]
+}
