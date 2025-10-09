@@ -1,8 +1,7 @@
 # 📡 Frecuencias 2025 — HK3TMP (desde PDF)
 
-| NOTAS                                         | NOMBRE CANAL        | CIUDAD                 | FRECUENCIA     | Duplex / Split  | Tono   | Modo      | NOTAS                                                     |
+| NOTAS                                         | NOMBRE CANAL        | CIUDAD                 | FRECUENCIA (RX Satélites)     | Duplex / Split (TX Satélites)  | Tono   | Modo      | NOTAS                                                     |
 |:----------------------------------------------|:--------------------|:-----------------------|:---------------|:----------------|:-------|:----------|:----------------------------------------------------------|
-|                                               |                     |                        | (RX Satélites) | (TX Satélites)  |        |           |                                                           |
 | Emergencia banda VHF                          | EMERGENCIA NACIONAL | N/A                    | 146.520        | N/A             | N/A    | FM        | N/A                                                       |
 | Emergencia banda HF 80 M                      | EMERGENCIA NACIONAL | N/A                    | 3.985          | N/A             | N/A    | LSB       | N/A                                                       |
 | Emergencia banda HF 40 M                      | EMERGENCIA NACIONAL | N/A                    | 7.060          | N/A             | N/A    | LSB       | Emergencias IARU                                          |
