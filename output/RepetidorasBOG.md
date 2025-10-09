@@ -1,4 +1,4 @@
-# 📡 Repetidoras en Colombia
+# 📡 Repetidoras en Bogotá COL (ZONA 3)
 
 Listado de repetidoras para radioaficionados en BOGOTÁ, COLOMBIA
 
