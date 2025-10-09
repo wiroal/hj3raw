@@ -1,6 +1,6 @@
 # 📡 Repetidoras en Colombia
 
-Versión depurada en formato Markdown lista para GitHub.
+Listado de repetidoras para radioaficionados en BOGOTÁ, COLOMBIA
 
 | Nombre                                  | Ciudad                 | FREC. MHz   |     RX |     TX | Cerro            |   Split | Tono   | Modo    | Horario                                                        |
 |:----------------------------------------|:-----------------------|:------------|-------:|-------:|:-----------------|--------:|:-------|:--------|:---------------------------------------------------------------|
