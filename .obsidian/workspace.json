@@ -11,10 +11,14 @@
             "id": "2342c82d272f8bba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "doc/dipolo_40m.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "dipolo_40m"
             }
           }
         ]
@@ -192,6 +196,8 @@
   },
   "active": "2342c82d272f8bba",
   "lastOpenFiles": [
+    "doc/fan_dipole_plano.md",
+    "doc/dipolo_40m.md",
     "wiroal/AA/31 Foro C3 2025/conceptos_X_XII_obsidian_estilo.md",
     "wiroal/AA/31 Foro C3 2025/conceptos_X_XII_obsidian_emojis.md",
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 643581.crdownload",
@@ -226,8 +232,6 @@
     "wiroal/AA/Espiritualidad_AA/Apadrinamiento Manual de Servicios Generales.md",
     "wiroal/AA/El apadrinamiento/Apadrinaminto en el texto básico.md",
     "wiroal/AA/El apadrinamiento/Apadrinamiento RACSG.md",
-    "wiroal/AA/El apadrinamiento/Apadrinamiento Manual de Servicios Generales.md",
-    "wiroal/AA/El apadrinamiento/Apadriamiento.md",
     "wiroal/AA/Camino-del-amor/Estructura de pensamiento.png"
   ]
 }
