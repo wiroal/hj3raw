@@ -4,8 +4,6 @@ Este documento contiene todas las hojas del archivo **__RepetidorasCol.xlsx** co
 
 ---
 
-## 📑 Hoja: Table001 (Page 1-2)
-
 | REPETIDOTRAS VHF EN BOGOTA              | Unnamed: 1   | Unnamed: 2   | Unnamed: 3   | Unnamed: 4             | Unnamed: 5   | Unnamed: 6   | Unnamed: 7   | Unnamed: 8       | Unnamed: 9   | Unnamed: 10   | Unnamed: 11   | Unnamed: 12                                                    |
 |:----------------------------------------|:-------------|:-------------|:-------------|:-----------------------|:-------------|:-------------|:-------------|:-----------------|:-------------|:--------------|:--------------|:---------------------------------------------------------------|
 | nan                                     | nan          | nan          | nan          | nan                    | nan          | nan          | nan          | nan              | nan          | nan           | nan           | nan                                                            |
