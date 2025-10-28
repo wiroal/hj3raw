@@ -131,6 +131,10 @@ DM32UV_Colombia/
 
 ---
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6f18e3ad-07f8-455e-abc6-38b13013f541" />
+
+
+
 **Elaborado por:** WIROAL  
 **Propósito:** Documentación técnica para programación del Baofeng DM-32UV  
 **Licencia:** CC BY-NC-SA 4.0  
