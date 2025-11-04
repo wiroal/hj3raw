@@ -19,10 +19,10 @@ Cuando está activada, el radio **escucha periódicamente las frecuencias NOAA p
 
 ## ⚙️ Descripción de opciones
 
-| Opción | Significado | Comportamiento |
-|:--------|:-------------|:----------------|
-| **OFF** | Alerta desactivada | El radio no monitorea ni reacciona ante transmisiones NOAA. (Recomendado fuera de EE. UU./Canadá). |
-| **ON** | Alerta activada | El radio escanea las frecuencias meteorológicas y suena una alarma si se detecta una transmisión de alerta (tormentas, huracanes, inundaciones, etc.). |
+| Opción  | Significado        | Comportamiento                                                                                                                                         |
+| :------ | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **OFF** | Alerta desactivada | El radio no monitorea ni reacciona ante transmisiones NOAA. (Recomendado fuera de EE. UU./Canadá).                                                     |
+| **ON**  | Alerta activada    | El radio escanea las frecuencias meteorológicas y suena una alarma si se detecta una transmisión de alerta (tormentas, huracanes, inundaciones, etc.). |
 
 ---
 
@@ -345,7 +345,7 @@ Si escaneas frecuencias muy activas (por ejemplo, PMR o seguridad privada), **TO
 **Repositorio sugerido:**  
 `https://github.com/HJ3RAW/DM32UV_Manual`
 
-> Se permite copiar, adaptar y compartir con atribución y uso no comercial.  
+> Se permite copiar, adaptar y compartir con atribución y uso no comercial.  2025
 
 ---
 

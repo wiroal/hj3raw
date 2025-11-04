@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/RepetidorasCol.md",
-                "mode": "source",
+                "file": "doc/03_DM32UV_Scan_Save_Module.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RepetidorasCol"
+              "title": "03_DM32UV_Scan_Save_Module"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "2342c82d272f8bba",
   "lastOpenFiles": [
+    "doc/02_DM-32UV_Manual  funciones.md",
+    "doc/01_DM-32UV_Manual_Estructura_y_Modos_v2.md",
+    "doc/00_programacion_DM-32UV.md",
     "src/FC80FB60",
     "src/9120FB60",
     "src/~$__RepetidorasCol.xlsx",
@@ -213,7 +216,6 @@
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 397891.crdownload",
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 371422.crdownload",
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 459617.crdownload",
-    "wiroal/AA/31 Foro C3 2025/Sin confirmar 465894.crdownload",
     "wiroal/AA/31 Foro C3 2025/CONCEPTOS X XI XII.md",
     "wiroal/AA/31 Foro C3 2025/Tema.md",
     "wiroal/AA/31 Foro C3 2025/tema_31_FORO_C3.md",
@@ -230,8 +232,6 @@
     "wiroal/AA/Espiritualidad_AA/El ego.md",
     "wiroal/AA/Espiritualidad_AA/Apadrinaminto en el texto básico.md",
     "wiroal/AA/Espiritualidad_AA/Apadrinamiento RACSG.md",
-    "wiroal/AA/Espiritualidad_AA/Apadrinamiento Manual de Servicios Generales.md",
-    "wiroal/AA/El apadrinamiento/Apadrinaminto en el texto básico.md",
     "wiroal/AA/Camino-del-amor/Estructura de pensamiento.png"
   ]
 }
