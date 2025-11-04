@@ -335,8 +335,6 @@ Determina cómo actúa el escáner del radio cuando encuentra una señal activa 
 Para radioaficionados y servicios locales, el modo **CO** ofrece el mejor equilibrio entre control y autonomía.  
 Si escaneas frecuencias muy activas (por ejemplo, PMR o seguridad privada), **TO** evita bloqueos innecesarios.
 
----
-
 
 ---
 
