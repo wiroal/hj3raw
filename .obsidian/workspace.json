@@ -11,14 +11,12 @@
             "id": "2342c82d272f8bba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "doc/03_DM32UV_Scan_Save_Module.md",
-                "mode": "preview",
-                "source": false
+                "file": "input/costos_servicios_RABCA_2023.pdf"
               },
-              "icon": "lucide-file",
-              "title": "03_DM32UV_Scan_Save_Module"
+              "icon": "lucide-file-text",
+              "title": "costos_servicios_RABCA_2023"
             }
           }
         ]
@@ -41,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -166,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "mxmind:Mxmind": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -188,17 +191,26 @@
       "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "mxmind:Mxmind": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "active": "2342c82d272f8bba",
   "lastOpenFiles": [
     "doc/02_DM-32UV_Manual  funciones.md",
-    "doc/01_DM-32UV_Manual_Estructura_y_Modos_v2.md",
     "doc/00_programacion_DM-32UV.md",
+    "output/sdr_config.md",
+    "output/Frecuencias2025_HK3TMP.md",
+    "output/RepetidorasBOG.md",
+    "output/fan_dipole_plano.md",
+    "output/dipolo_15m.md",
+    "output/dipolo_10m.md",
+    "output/actualizacion_QUANSHENG_UV-k5(8).md",
+    "output/__tabla_frecuencias_bogota.pdf",
+    "output/___codigo_fonetico.pdf",
+    "hj3raw.md",
+    "README.md",
+    "doc/03_DM32UV_Scan_Save_Module.md",
+    "doc/01_DM-32UV_Manual_Estructura_y_Modos_v2.md",
     "src/FC80FB60",
     "src/9120FB60",
     "src/~$__RepetidorasCol.xlsx",
@@ -214,24 +226,12 @@
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 471115.crdownload",
     "wiroal/AA/31 Foro C3 2025/TEMA CONCEPTOS X XI XII.md",
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 397891.crdownload",
-    "wiroal/AA/31 Foro C3 2025/Sin confirmar 371422.crdownload",
-    "wiroal/AA/31 Foro C3 2025/Sin confirmar 459617.crdownload",
     "wiroal/AA/31 Foro C3 2025/CONCEPTOS X XI XII.md",
     "wiroal/AA/31 Foro C3 2025/Tema.md",
     "wiroal/AA/31 Foro C3 2025/tema_31_FORO_C3.md",
     "wiroal/AA/aa_buscador_directorio.md",
     "wiroal/AAMOTEROSCOL/aamoteroscol_clasificacion.md",
     "wiroal/AA/meditacion_ocupados.md",
-    "soplete_windows.md",
-    "README.md",
-    "pi-star.md",
-    "wiroal/AA/Estudio del Texto Básico/Objetivo del Texto Básico.md",
-    "wiroal/AA/Espiritualidad_AA/Poder Superior.md",
-    "wiroal/AA/Estudio del Texto Básico/Mejorar con el Texto Básico.md",
-    "wiroal/AA/Espiritualidad_AA/Liderazgo, responsabilidad y gratitud.md",
-    "wiroal/AA/Espiritualidad_AA/El ego.md",
-    "wiroal/AA/Espiritualidad_AA/Apadrinaminto en el texto básico.md",
-    "wiroal/AA/Espiritualidad_AA/Apadrinamiento RACSG.md",
     "wiroal/AA/Camino-del-amor/Estructura de pensamiento.png"
   ]
 }
