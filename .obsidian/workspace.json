@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed1895600c997eb",
+        "id": "69e3e783a97ea18e",
         "type": "tabs",
         "children": [
           {
-            "id": "2342c82d272f8bba",
+            "id": "d257840bb8ba429e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "input/costos_servicios_RABCA_2023.pdf"
+                "file": "src/FRECUENCIAS JOTA_JOTI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "costos_servicios_RABCA_2023"
+              "icon": "lucide-file",
+              "title": "FRECUENCIAS JOTA_JOTI"
             }
           }
         ]
@@ -194,8 +196,12 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2342c82d272f8bba",
+  "active": "d257840bb8ba429e",
   "lastOpenFiles": [
+    "output/dipolo_10m.md",
+    "src/FRECUENCIAS JOTA_JOTI.md",
+    "output/___codigo_fonetico.pdf",
+    "input/costos_servicios_RABCA_2023.pdf",
     "doc/02_DM-32UV_Manual  funciones.md",
     "doc/00_programacion_DM-32UV.md",
     "output/sdr_config.md",
@@ -203,10 +209,8 @@
     "output/RepetidorasBOG.md",
     "output/fan_dipole_plano.md",
     "output/dipolo_15m.md",
-    "output/dipolo_10m.md",
     "output/actualizacion_QUANSHENG_UV-k5(8).md",
     "output/__tabla_frecuencias_bogota.pdf",
-    "output/___codigo_fonetico.pdf",
     "hj3raw.md",
     "README.md",
     "doc/03_DM32UV_Scan_Save_Module.md",
@@ -225,13 +229,11 @@
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 529366.crdownload",
     "wiroal/AA/31 Foro C3 2025/Sin confirmar 471115.crdownload",
     "wiroal/AA/31 Foro C3 2025/TEMA CONCEPTOS X XI XII.md",
-    "wiroal/AA/31 Foro C3 2025/Sin confirmar 397891.crdownload",
     "wiroal/AA/31 Foro C3 2025/CONCEPTOS X XI XII.md",
     "wiroal/AA/31 Foro C3 2025/Tema.md",
     "wiroal/AA/31 Foro C3 2025/tema_31_FORO_C3.md",
     "wiroal/AA/aa_buscador_directorio.md",
     "wiroal/AAMOTEROSCOL/aamoteroscol_clasificacion.md",
-    "wiroal/AA/meditacion_ocupados.md",
     "wiroal/AA/Camino-del-amor/Estructura de pensamiento.png"
   ]
 }
